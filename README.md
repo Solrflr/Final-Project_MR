@@ -8,7 +8,7 @@ This file is for describing the repository
 | Original Electric Vehicle Dataset | [Kaggle Dataset][PlGh] |
 | Code | [Jupyter Notebook][PlGd] |
 | Electric Vehicles Website (Scrape) | [Alternative Energy Fuels Data][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
+| Data Dictionary | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 
