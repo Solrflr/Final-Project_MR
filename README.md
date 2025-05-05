@@ -4,10 +4,10 @@ This file is for describing the repository
 
 | Plugin | README |
 | ------ | ------ |
-| Clean Electric Vechicle Dataset | [plugins/dropbox/README.md][PlDb] |
-| Original Electric Vehicle Dataset | [plugins/github/README.md][PlGh] |
-| Code | [plugins/googledrive/README.md][PlGd] |
-| Electric Vehicles Website (Scrape) | [plugins/onedrive/README.md][PlOd] |
+| Clean Electric Vechicle Dataset | [Clean Dataset][PlDb] |
+| Original Electric Vehicle Dataset | [Kaggle Dataset][PlGh] |
+| Code | [Jupyter Notebook][PlGd] |
+| Electric Vehicles Website (Scrape) | [Alternative Energy Fuels Data][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
