@@ -4,8 +4,8 @@ This file is for describing the repository
 
 | Plugin | README |
 | ------ | ------ |
-| Electric Vechicle Dataset | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
+| Clean Electric Vechicle Dataset | [plugins/dropbox/README.md][PlDb] |
+| Original Electric Vehicle Dataset | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
