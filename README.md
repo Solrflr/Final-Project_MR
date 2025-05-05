@@ -8,7 +8,7 @@ This file is for describing the repository
 | Original Air Quality Dataset | [Kaggle Dataset][PlGh] |
 | Code | [Jupyter Notebook][PlGd] |
 | Electric Vehicles Website (Scrape) | [Alternative Energy Fuels Data][PlOd] |
-| Data Dictionary | [plugins/medium/README.md][PlMe] |
+| Data Dictionary |Data Dictionary |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 
